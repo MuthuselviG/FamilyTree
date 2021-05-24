@@ -1,0 +1,13 @@
+ADD_CHILD Chitra Aria Female
+GET_RELATIONSHIP Aras Siblings
+GET_RELATIONSHIP Vila Paternal-Uncle
+GET_RELATIONSHIP Vila Paternal-Aunt
+GET_RELATIONSHIP Satvy Maternal-Uncle
+GET_RELATIONSHIP Asva Maternal-Uncle
+GET_RELATIONSHIP Dritha Maternal-Aunt
+GET_RELATIONSHIP Yodhan Maternal-Aunt
+GET_RELATIONSHIP Vila Paternal-Uncle
+GET_RELATIONSHIP Vritha Paternal-Aunt
+GET_RELATIONSHIP Vritha Paternal-Uncle
+GET_RELATIONSHIP Jaya Sister-In-Law
+GET_RELATIONSHIP Jaya Brother-In-Law
